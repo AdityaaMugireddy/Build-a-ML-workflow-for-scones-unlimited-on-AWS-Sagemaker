@@ -1,1 +1,4 @@
 # Build-a-ML-workflow-for-scones-unlimited-on-AWS-Sagemaker
+This project entails building an image classification model designed to automatically identify the type of vehicle used by delivery drivers. This capability is crucial for efficiently routing drivers to the appropriate loading bays and orders. By assigning bicycle-riding professionals to nearby orders and assigning more distant orders to motorcyclists, Scones Unlimited aims to optimize its delivery operations.
+
+As a Machine Learning Engineer, our primary objective is to develop a scalable and secure model. It must be capable of handling high demand once it's made available to other teams. Additionally, robust monitoring and safeguards are essential to detect and address any potential model drift or performance degradation. This ensures the model's continued effectiveness in real-world scenarios.
